@@ -1,3 +1,3 @@
-# Learn Terraform - Test
+# S3 Website Module
 
-This is the companion repo to the [Write Terraform Tests](https://developer.hashicorp.com/terraform/language/tests) tutorial.
+S3 Website Module
